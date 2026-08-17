@@ -8,7 +8,7 @@ Prepara as imagens térmicas para uso como segunda camada de textura no Meshroom
 Executa, em uma única passagem:
   1) redimensionamento por vizinho mais próximo (NEAREST) de 640x480 para a
      resolução registrada em cada vista do cameraInit.sfm (768x576);
-    2) cópia renomeada pelo viewId correspondente, exigida pelo atributo
+  2) cópia renomeada pelo viewId correspondente, exigida pelo atributo
      "Images Folder" do nó Texturing2;
   3) registro do vínculo em arquivo CSV para conferência e reuso.
 
