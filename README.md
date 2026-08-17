@@ -57,7 +57,7 @@ py main.py
 Sobrescrevendo o arquivo `.env` por linha de comando:
 
 ```bash
-py main.py --env "D:\coletas\semana12\config.env"
+py main.py --env "C:\caminho\projeto\config.env"
 py main.py --sfm "C:\caminho\cameraInit.sfm"
 py main.py --ir "C:\caminho\imagens_termicas"
 py main.py --out "C:\caminho\saida"
